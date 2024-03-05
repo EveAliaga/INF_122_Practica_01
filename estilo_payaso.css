@@ -1,0 +1,120 @@
+#sombrero
+{
+    width: 500px;
+    height: 50px;
+    background-color: brown;
+   
+    position: relative;
+    left: 50px;
+    top: 100px;
+    z-index: 1;
+}
+#sombrero_1
+{
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    z-index: 1;
+}
+#rostro
+{
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+    background-color: peachpuff;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+#ojo1
+{
+    width: 90px;
+    height: 140px;
+    border-radius: 50px;
+    background-color:white;
+    position: relative;
+    left: 120px;
+    top:  100px;
+    
+}
+#pupila1
+{
+    width: 50px;
+    height: 80px;
+    border-radius: 50px;
+    background-color:black;
+    position: relative;
+    left: 20px;
+    top:  30px;
+    
+}
+#ojo2
+{
+    width: 90px;
+    height: 140px;
+    border-radius: 50px;
+    background-color:white;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    bottom: 35px;
+    
+}
+#pupila2
+{
+    width: 50px;
+    height: 80px;
+    border-radius: 50px;
+    background-color:black;
+    position: relative;
+    left: 20px;
+    top:  30px;
+    
+}
+#nariz
+{
+    width: 160px;
+    height: 140px;
+    border-radius: 140px;
+    background-color: red;
+    position: relative;
+    left: 172.5px;
+    bottom: 120px;
+    z-index: 1;
+}
+#barba
+{
+    width: 400px;
+    height: 200px;
+    border-radius: 140px;
+    background-color: black;
+    position: relative;
+    left: 50px;
+    bottom: 170px;
+   
+}
+#barba1
+{
+    width: 300px;
+    height: 160px;
+    border-radius: 140px;
+    background-color: lightgoldenrodyellow;
+    position: relative;
+    left: 50px;
+    top: 20px;
+ 
+}
+#boca
+{
+    width: 200px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(255, 0, 55);
+    position: relative;
+    left: 50px;
+    top: 45px;
+}
